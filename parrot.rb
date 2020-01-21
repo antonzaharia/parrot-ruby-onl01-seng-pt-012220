@@ -4,3 +4,4 @@ def parrot(bird="Squawk!")
   puts = "Pretty #{bird}"
   "Squawk!"
 end
+parrot("bird")
